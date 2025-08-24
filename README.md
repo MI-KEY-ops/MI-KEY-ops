@@ -1,45 +1,18 @@
- 🎉 Welcome to the Domain of @MI-KEY-ops!
-
-Hello there! I'm a passionate Business Analyst and UML Specialist currently navigating my journey in the tech universe. When I'm not analyzing data or designing user experiences, you might find me diving into the vibrant worlds of anime or strategizing on the football field!
-
- 🌌 I’m interested in:
-➢ Business Analysis: Turning data into actionable insights.
-➢ UML Specialization: Crafting visual models that communicate complex ideas.
-➢ Workspace Design: Creating user➢friendly environments for enhanced productivity.
-➢ UX Design: Ensuring every interaction is intuitive and delightful.
+# 💫 About Me:
+🔭 I’m currently working on building Owlvest (a blockchain-optimized investing platform) and TradeMentor (an AI-powered trading assistant) — projects that combine my passion for technology, trading, and innovation.<br><br>👯 I’m looking to collaborate on software engineering projects, especially in AI, cybersecurity, and fintech, with people who believe in turning ideas into impactful solutions.<br><br>🤝 I’m looking for help with scaling startup ideas into real-world products, and connecting with mentors who can guide me in the fields of entrepreneurship, AI, and financial technology.<br><br>🌱 I’m currently learning advanced cybersecurity, forensics, and AI/ML applications, while also sharpening my skills in trading strategies and automation.<br><br>💬 Ask me about entrepreneurship, forex trading, building AI-driven tools, blockchain applications, or how to bring a startup idea to life from scratch.<br><br>⚡ Fun fact: I can spend hours coding a solution — and the very next hour analyzing forex charts. For me, tech and trading are two sides of the same game: strategy, patience, and execution.
 
 
- 💼 Experience: 
-➢ Trainer | Youth Development Institute						    (2020 ➢ 2022)  
-  Conducted training sessions to enhance students' speaking, writing, reading, and listening skills. 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/haris-miraj) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/leo_Harry7) 
 
- 📊 Academic Projects:
-➢ EAT & MEET						                                (Semester 01 ➢ ITP)  
-  Developed an online café menu system allowing customers to browse, order, and reserve using C++.
-  
-➢ Placement Management System 						              (Semester 03 ➢ DBMS)  
-  Created a system with unique student dashboards for efficient management of placement processes using HTML, CSS, JavaScript, and PHP.
-  
-➢ Software Requirement Documentation 					        (Semester 04 ➢ SRE)  
-  Crafted standardized software requirements documentation by gathering user requirements and applying the principles of Software Requirements Engineering.
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=plastic&logo=adobe%20illustrator&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=plastic&logo=framer&logoColor=blue) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=plastic&logo=steam&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=plastic&logo=unity&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=plastic&logo=riotgames&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=plastic&logo=ea&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=plastic&logo=unrealengine&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=plastic&logo=epicgames&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=HARRY&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=HARRY&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HARRY&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
- 🌟 Position of Responsibility:
-➢ Member | Cause Society, CUST University 					    (2024 ➢ Present)  
-  Organizing hackathons and conducting training and talent sessions.
+---
+[![](https://visitcount.itsvg.in/api?id=HARRY&icon=3&color=0)](https://visitcount.itsvg.in)
 
- 🎮 Hobbies:
-➢ ⚽ Football
-➢ 🎬 Movies
-➢ 🎮 Gaming
-➢ 🌟 Anime Enthusiast
-
- 🌈 Fun Fact:
-When I’m not buried in data or designing user➢friendly interfaces, you can catch me immersed in my favorite anime series, often finding parallels between character development and user experience design!
-
-Feel free to connect and collaborate! Let's make the tech world a better place together. 
-
- ✉️ How to reach me:
-➢ LinkedIn: Haris Miraj
-➢ Email: harismirajse@gmail.com
-
- "In a world of data, be the insightful analyst!" 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
