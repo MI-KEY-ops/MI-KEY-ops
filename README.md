@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on building Owlvest (a blockchain-optimized investing platform) and TradeMentor (an AI-powered trading assistant) — projects that combine my passion for technology, trading, and innovation.<br><br>👯 I’m looking to collaborate on software engineering projects, especially in AI, cybersecurity, and fintech, with people who believe in turning ideas into impactful solutions.<br><br>🤝 I’m looking for help with scaling startup ideas into real-world products, and connecting with mentors who can guide me in the fields of entrepreneurship, AI, and financial technology.<br><br>🌱 I’m currently learning advanced cybersecurity, forensics, and AI/ML applications, while also sharpening my skills in trading strategies and automation.<br><br>💬 Ask me about entrepreneurship, forex trading, building AI-driven tools, blockchain applications, or how to bring a startup idea to life from scratch.<br><br>⚡ Fun fact: I can spend hours coding a solution — and the very next hour analyzing forex charts. For me, tech and trading are two sides of the same game: strategy, patience, and execution.
-
+ 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/haris-miraj) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/leo_Harry7) 
